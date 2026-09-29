@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <rect width="100%" height="100%" fill="#0D0E11"/>
+  <!-- Solis Reserve Solar Botanical Monogram -->
+  <g transform="translate(250, 250)">
+    <circle r="160" fill="none" stroke="#D99B38" stroke-width="4"/>
+    <circle r="140" fill="none" stroke="#D99B38" stroke-width="1.5" stroke-dasharray="4 6"/>
+    <path d="M 0 -160 C 25 -100 25 -40 0 0 C -25 -40 -25 -100 0 -160 Z" fill="#D99B38" opacity="0.95"/>
+    <path d="M 160 0 C 100 25 40 25 0 0 C 40 -25 100 -25 160 0 Z" fill="#D99B38" opacity="0.95"/>
+    <path d="M 0 160 C -25 100 -25 40 0 0 C 25 40 25 100 0 160 Z" fill="#D99B38" opacity="0.95"/>
+    <path d="M -160 0 C -100 -25 -40 -25 0 0 C -40 25 -100 25 -160 0 Z" fill="#D99B38" opacity="0.95"/>
+    <path d="M 113 -113 C 85 -55 45 -25 0 0 C 25 -45 55 -85 113 -113 Z" fill="#C06B3E" opacity="0.9"/>
+    <path d="M 113 113 C 55 85 25 45 0 0 C 45 25 85 55 113 113 Z" fill="#C06B3E" opacity="0.9"/>
+    <path d="M -113 113 C -85 55 -45 25 0 0 C -25 45 -55 85 -113 113 Z" fill="#C06B3E" opacity="0.9"/>
+    <path d="M -113 -113 C -55 -85 -25 -45 0 0 C -45 -25 -85 -55 -113 -113 Z" fill="#C06B3E" opacity="0.9"/>
+    <circle r="36" fill="#D99B38"/>
+    <circle r="18" fill="#0D0E11"/>
+  </g>
+  <text x="250" y="440" text-anchor="middle" fill="#F5F2EB" font-family="'Syne', sans-serif" font-size="24" font-weight="bold" letter-spacing="4">SOLIS RESERVE</text>
+  <text x="250" y="468" text-anchor="middle" fill="#D99B38" font-family="'Playfair Display', serif" font-style="italic" font-size="14">Botanical Cold-Drip</text>
+</svg>
